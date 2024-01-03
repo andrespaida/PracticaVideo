@@ -1,2 +1,2 @@
-OPENAI_API_KEY='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'
+OPENAI_API_KEY='none'
 OPENAI_MODEL= 'gpt-3.5-turbo-instruct'
